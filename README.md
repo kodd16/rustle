@@ -20,3 +20,11 @@
              repeatCount="indefinite"/>
   </rect>
 </svg><img width="520" height="120" alt="rustle" src="https://github.com/user-attachments/assets/943cd4d6-2577-4fe8-8057-3603bb7e5fc7" />
+
+---
+
+### A simple and fast file organizer written in Rust.
+
+## Usage
+```bash
+cargo run -- --path /path/to/your/directory
