@@ -23,8 +23,24 @@
 
 ---
 
+![Status](https://img.shields.io/badge/status-in--progress-orange?style=flat-square)
+![Language](https://img.shields.io/badge/language-rust-orange?style=flat-square&logo=rust)
+
 ### A simple and fast file organizer written in Rust.
 
 ## Usage
 ```bash
 cargo run -- --path /path/to/your/directory
+```
+
+--- 
+
+# Description
+
+**rustle** is a CLI tool designed to help you organize files in your directories by categorizing them into folders based on their extensions.
+
+# License
+
+**MIT**
+
+(Learning project)
