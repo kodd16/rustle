@@ -21,8 +21,8 @@
   </rect>
 </svg><img width="520" height="120" alt="rustle" src="https://github.com/user-attachments/assets/943cd4d6-2577-4fe8-8057-3603bb7e5fc7" />
 
-![Status](https://img.shields.io/badge/status-in--progress-orange?style=flat-square)
-![Language](https://img.shields.io/badge/language-rust-orange?style=flat-square&logo=rust)
+![Status](https://img.shields.io/badge/status-in--progress-orange?style=for-the-badge&labelColor=000000&color=df6124&logo=github&logoColor=df6124)
+![Language](https://img.shields.io/badge/language-rust-orange?style=for-the-badge&labelColor=000000&color=df6124&logo=rust&logoColor=df6124)
 
 # A fast file organizer
 
